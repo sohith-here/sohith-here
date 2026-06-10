@@ -91,6 +91,6 @@ Working on the development and maintenance of:
 ## 🌐 Connect With Me
 
 - LinkedIn: https://www.linkedin.com/in/sohith-k-s/
-- Portfolio: sohith.in
+- Portfolio: https://sohith.in
 
 </div>
