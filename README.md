@@ -75,6 +75,16 @@ Working on the development and maintenance of:
 
 ---
 
+
+## 🌱 Currently Working On
+
+- Transcriptomics Analysis Automation
+- Bioinformatics Reporting Dashboards
+- React.js and Node.js Applications
+- Scientific Data Processing Pipelines
+
+---
+
 ## 📈 GitHub Statistics
 
 <div align="center">
