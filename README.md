@@ -1,61 +1,96 @@
-# Hi 👋, I'm Sohith
+<div align="center">
 
-### Software Engineer | Full Stack Developer | Bioinformatics Developer
+# Hi 👋 I'm Sohith
 
-Building scalable web applications and bioinformatics analysis platforms.
+### Bioinformatics Software Engineer | Full Stack Developer
+
+Building genomics, transcriptomics and scientific data analysis platforms.
+
+<img src="https://komarev.com/ghpvc/?username=sohith-here&label=Profile%20Views&color=0e75b6&style=flat" />
+
+</div>
 
 ---
 
 ## 🚀 About Me
 
 - 💼 Software Engineer at BIONIVID Technology
-- 🔬 Working on Genomics & Transcriptomics Analysis Pipelines
-- 🌱 Developing SQIT and Nivilabs platforms
-- 💻 Full Stack Developer (React.js, Node.js)
-- 🐧 Linux & Automation Enthusiast
+- 🧬 Developing Genomics & Transcriptomics Analysis Pipelines
+- 🔬 Building SQIT and Nivilabs Platforms
+- ⚡ Full Stack Developer using React.js and Node.js
+- 🐧 Linux Automation & Pipeline Development
+- 📊 Scientific Data Visualization and Reporting
 
 ---
 
 ## 💻 Tech Stack
 
 ### Frontend
-HTML • CSS • JavaScript • React.js • Bootstrap
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
 
 ### Backend
-Node.js • Express.js
+
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express)
 
 ### Database
-MySQL • MongoDB
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
 
 ### Bioinformatics
-R • Bash • Trinity • DESeq2 • KEGG • GO Enrichment
 
-### Tools
-Git • GitHub • Linux
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash)
 
 ---
 
 ## 🔥 Featured Projects
 
-### SQIT
+### 🧬 SQIT
 Comprehensive Bioinformatics Analysis Platform
 
-### Nivilabs
-Research & Data Analysis Platform
+- RNA-Seq Analysis
+- Differential Expression Analysis
+- Functional Annotation
+- KEGG & GO Enrichment
 
-### Transcriptome Analysis Pipeline
-Assembly → Annotation → Differential Expression → Enrichment
+### 🔬 Nivilabs
+Research and Scientific Data Analysis Platform
 
-### Functional Annotation Suite
-GO, KEGG, COG, EggNOG Integration
+### 📊 Transcriptome Analysis Pipeline
+
+Assembly ➜ Annotation ➜ Differential Expression ➜ Enrichment
+
+### 🧪 Functional Annotation Suite
+
+GO • KEGG • COG • EggNOG Integration
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sohith-here&show_icons=true)
+<div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sohith-here&layout=compact)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=sohith-here&show_icons=true&theme=github_dark"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohith-here&layout=compact&theme=github_dark"/>
+
+</div>
+
+---
+
+## 🌱 Currently Working On
+
+- SQIT Platform
+- Nivilabs
+- Transcriptomics Analysis Automation
+- Bioinformatics Reporting Dashboards
 
 ---
 
@@ -63,3 +98,5 @@ GO, KEGG, COG, EggNOG Integration
 
 - LinkedIn: https://www.linkedin.com/in/sohith-k-s/
 - Portfolio: sohith.in
+
+</div>
