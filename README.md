@@ -50,26 +50,29 @@ Building genomics, transcriptomics and scientific data analysis platforms.
 
 ---
 
-## 🔥 Featured Projects
+## 💼 Professional Experience
 
-### 🧬 SQIT
-Comprehensive Bioinformatics Analysis Platform
+### BIONIVID Technology
+
+Working on the development and maintenance of:
+
+- Bioinformatics Analysis Platforms
+- Genomics & Transcriptomics Analysis Workflows
+- Scientific Data Visualization and Reporting Systems
+- Linux-based Pipeline Automation
+- Full Stack Web Applications using React.js and Node.js
+
+---
+
+## 🧬 Areas of Expertise
 
 - RNA-Seq Analysis
-- Differential Expression Analysis
+- Transcriptome Assembly & Annotation
+- Differential Gene Expression Analysis
 - Functional Annotation
-- KEGG & GO Enrichment
-
-### 🔬 Nivilabs
-Research and Scientific Data Analysis Platform
-
-### 📊 Transcriptome Analysis Pipeline
-
-Assembly ➜ Annotation ➜ Differential Expression ➜ Enrichment
-
-### 🧪 Functional Annotation Suite
-
-GO • KEGG • COG • EggNOG Integration
+- GO & KEGG Enrichment Analysis
+- Scientific Report Generation
+- Bioinformatics Workflow Automation
 
 ---
 
