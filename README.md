@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Sohith 👋
 
-<!--
-**sohith-here/sohith-here** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer | Full Stack Developer | Bioinformatics Developer
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Building bioinformatics pipelines and web applications
+- Working with Node.js, React.js, JavaScript, Linux and R
+- Interested in Genomics, Transcriptomics and Cloud Computing
+- Currently developing Nivilabs and SQIT products
+
+## Tech Stack
+
+- Frontend: React.js, HTML, CSS, Bootstrap
+- Backend: Node.js, Express.js
+- Database: MySQL, MongoDB
+- Bioinformatics: R, Bash, Trinity, DESeq2
+- DevOps: Linux, Git, GitHub
+
+## Featured Projects
+
+### SQIT
+Bioinformatics analysis platform for genomics and transcriptomics.
+
+### Nivilabs
+Research software solutions and scientific data analysis platform.
+
+## Connect With Me
+
+LinkedIn: your-linkedin
+Portfolio: your-website
