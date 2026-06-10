@@ -1,31 +1,65 @@
-# Hi, I'm Sohith 👋
+# Hi 👋, I'm Sohith
 
-Software Engineer | Full Stack Developer | Bioinformatics Developer
+### Software Engineer | Full Stack Developer | Bioinformatics Developer
 
-## About Me
+Building scalable web applications and bioinformatics analysis platforms.
 
-- Building bioinformatics pipelines and web applications
-- Working with Node.js, React.js, JavaScript, Linux and R
-- Interested in Genomics, Transcriptomics and Cloud Computing
-- Currently developing Nivilabs and SQIT products
+---
 
-## Tech Stack
+## 🚀 About Me
 
-- Frontend: React.js, HTML, CSS, Bootstrap
-- Backend: Node.js, Express.js
-- Database: MySQL, MongoDB
-- Bioinformatics: R, Bash, Trinity, DESeq2
-- DevOps: Linux, Git, GitHub
+- 💼 Software Engineer at BIONIVID Technology
+- 🔬 Working on Genomics & Transcriptomics Analysis Pipelines
+- 🌱 Developing SQIT and Nivilabs platforms
+- 💻 Full Stack Developer (React.js, Node.js)
+- 🐧 Linux & Automation Enthusiast
 
-## Featured Projects
+---
+
+## 💻 Tech Stack
+
+### Frontend
+HTML • CSS • JavaScript • React.js • Bootstrap
+
+### Backend
+Node.js • Express.js
+
+### Database
+MySQL • MongoDB
+
+### Bioinformatics
+R • Bash • Trinity • DESeq2 • KEGG • GO Enrichment
+
+### Tools
+Git • GitHub • Linux
+
+---
+
+## 🔥 Featured Projects
 
 ### SQIT
-Bioinformatics analysis platform for genomics and transcriptomics.
+Comprehensive Bioinformatics Analysis Platform
 
 ### Nivilabs
-Research software solutions and scientific data analysis platform.
+Research & Data Analysis Platform
 
-## Connect With Me
+### Transcriptome Analysis Pipeline
+Assembly → Annotation → Differential Expression → Enrichment
 
-LinkedIn: your-linkedin
-Portfolio: your-website
+### Functional Annotation Suite
+GO, KEGG, COG, EggNOG Integration
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sohith-here&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sohith-here&layout=compact)
+
+---
+
+## 🌐 Connect With Me
+
+- LinkedIn: Add your profile link
+- Portfolio: Add your website link
