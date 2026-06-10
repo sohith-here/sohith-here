@@ -16,7 +16,6 @@ Building genomics, transcriptomics and scientific data analysis platforms.
 
 - 💼 Software Engineer at BIONIVID Technology
 - 🧬 Developing Genomics & Transcriptomics Analysis Pipelines
-- 🔬 Building SQIT and Nivilabs Platforms
 - ⚡ Full Stack Developer using React.js and Node.js
 - 🐧 Linux Automation & Pipeline Development
 - 📊 Scientific Data Visualization and Reporting
