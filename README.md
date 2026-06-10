@@ -61,5 +61,5 @@ GO, KEGG, COG, EggNOG Integration
 
 ## 🌐 Connect With Me
 
-- LinkedIn: Add your profile link
-- Portfolio: Add your website link
+- LinkedIn: https://www.linkedin.com/in/sohith-k-s/
+- Portfolio: sohith.in
