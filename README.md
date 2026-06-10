@@ -85,14 +85,6 @@ Working on the development and maintenance of:
 
 </div>
 
----
-
-## 🌱 Currently Working On
-
-- SQIT Platform
-- Nivilabs
-- Transcriptomics Analysis Automation
-- Bioinformatics Reporting Dashboards
 
 ---
 
